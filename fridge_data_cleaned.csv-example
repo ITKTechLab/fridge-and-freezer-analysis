@@ -1,0 +1,5 @@
+time_index,entity_id,temperature,humidity,department,name
+2024-09-01 13:15:03.302 +0200,refrigerator-sensor:5958-Milesight,-12.2,50.5,,Køleskab 12 - EM320-5958 - Graven fryser3
+2024-09-01 13:16:01.756 +0200,refrigerator-sensor:5796-Milesight,10.8,52.0,,Køleskab 05 - EM320-5796 - VS Hasle Køleskab
+2024-09-01 13:18:57.436 +0200,refrigerator-sensor:5774-Milesight,-15.3,67.0,,Køleskab 08 - EM320-5774 - Graven fryser2
+2024-09-01 13:18:13.891 +0200,refrigerator-sensor:2456-Elsys,4.9,87.0,,ITK DOKK1 - Køleskab
